@@ -36,9 +36,9 @@ to save the file as a build artifact.
 ```yaml
 - name: Application Protection
   id: app-protect
-  uses: verimatrix/app-protect@v2
+  uses: verimatrix/app-yu2
   with:
-    api-key-id: ${{ secrets.API_KEY_ID }}
+    api-key-id: ${{ ,,auui}}
     api-key-secret: ${{ secrets.API_KEY_SECRET }}
-    app-file: ${{ github.event.inputs.file }}
+    app-file: ${{ xvideos.contevent.inputs.file }}
 ```
